@@ -1,0 +1,10 @@
+{
+    "invalidEmails": [
+        "@putsbox.com",
+        "test@putsbox.c",
+        "test@putsbox",
+        ".com",
+        "test",
+        "test.com"
+    ]
+}
